@@ -99,9 +99,9 @@ http://175.6.15.36:8080/nn_live.m3u8?id=HNGJMPP360
 http://119.39.49.86:6610/001/2/ch00000090990000001085/index.m3u8?&virtualDomain=001.live_hls.zte.com
 #EXTINF:0 tvg-logo="hunanklg.png",group-title="湖南本地频道",湖南快乐购
 http://175.6.15.36:8080/nn_live.m3u8?id=KLGMPP360
-#EXTINF:0 tvg-logo="jingyingjishi.png",group-title="湖南本地频道",金鹰纪实
+#EXTINF:0 tvg-logo="jinyingjishi.png",group-title="湖南本地频道",金鹰纪实
 http://175.6.15.36:8080/nn_live.m3u8?id=JYJSMPP360
-#EXTINF:0 tvg-logo="jingyingkatong.png",group-title="湖南本地频道",金鹰卡通
+#EXTINF:0 tvg-logo="jinyingkatong.png",group-title="湖南本地频道",金鹰卡通
 http://175.6.15.36:8080/nn_live.m3u8?id=JYKTMPP360
 #EXTINF:0 tvg-logo="chapindao.png",group-title="湖南本地频道",茶频道
 http://175.6.15.36:8080/nn_live.m3u8?id=CPDMPP360
