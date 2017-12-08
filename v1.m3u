@@ -1,57 +1,57 @@
 #EXTM3U url-logos="https://iloveiptv.github.io/tvlogos/"
-#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="超清央视卫视",CCTV1
+#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="超清央视卫视",cctv-1
 http://183.252.176.40/PLTV/88888888/224/3221225922/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="超清央视卫视",CCTV1
+#EXTINF:0 tvg-logo="CCTV-1a.png",group-title="超清央视卫视",cctv-1
 http://183.252.176.40/PLTV/88888888/224/3221225829/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="超清央视卫视",CCTV2
+#EXTINF:0 tvg-logo="CCTV-2a.png",group-title="超清央视卫视",cctv-2
 http://183.252.176.40/PLTV/88888888/224/3221225923/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="超清央视卫视",CCTV3
+#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="超清央视卫视",cctv-3
 http://183.252.176.40/PLTV/88888888/224/3221225924/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="超清央视卫视",CCTV3
+#EXTINF:0 tvg-logo="CCTV-3a.png",group-title="超清央视卫视",cctv-3
 http://183.252.176.40/PLTV/88888888/224/3221225801/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-4a.png",group-title="超清央视卫视",CCTV4
+#EXTINF:0 tvg-logo="CCTV-4a.png",group-title="超清央视卫视",cctv-4
 http://61.166.153.32:1180/play/playback/90000001000000050000000000000199/live100001.m3u8
-#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清央视卫视",CCTV5
+#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清央视卫视",cctv-5
 http://183.252.176.40/PLTV/88888888/224/3221225925/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清央视卫视",CCTV5
+#EXTINF:0 tvg-logo="CCTV-5a.png",group-title="超清央视卫视",cctv-5
 http://183.252.176.40/PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="超清央视卫视",CCTV5+
+#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="超清央视卫视",cctv-5+
 http://183.252.176.40/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="超清央视卫视",CCTV5+
+#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="超清央视卫视",cctv-5+
 http://183.252.176.40/PLTV/88888888/224/3221225821/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="超清央视卫视",CCTV6
+#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="超清央视卫视",cctv-6
 http://183.252.176.40/PLTV/88888888/224/3221225926/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="超清央视卫视",CCTV6
+#EXTINF:0 tvg-logo="CCTV-6a.png",group-title="超清央视卫视",cctv-6
 http://183.252.176.40/PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="超清央视卫视",CCTV7
+#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="超清央视卫视",cctv-7
 http://183.252.176.40/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="超清央视卫视",CCTV7
+#EXTINF:0 tvg-logo="CCTV-7a.png",group-title="超清央视卫视",cctv-7
 http://api_p.tll888.com/v/iptv.php?id=cctv7hd
-#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="超清央视卫视",CCTV8
+#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="超清央视卫视",cctv-8
 http://183.252.176.40/PLTV/88888888/224/3221225928/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="超清央视卫视",CCTV8
+#EXTINF:0 tvg-logo="CCTV-8a.png",group-title="超清央视卫视",cctv-8
 http://183.252.176.40/PLTV/88888888/224/3221225806/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="超清央视卫视",CCTV9
+#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="超清央视卫视",cctv-9
 http://183.252.176.40/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="超清央视卫视",CCTV9
+#EXTINF:0 tvg-logo="CCTV-9a.png",group-title="超清央视卫视",cctv-9
 http://api_p.tll888.com/v/iptv.php?id=cctv9hd
-#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="超清央视卫视",CCTV10
+#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="超清央视卫视",cctv-10
 http://183.252.176.40/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="超清央视卫视",CCTV10
+#EXTINF:0 tvg-logo="CCTV-10a.png",group-title="超清央视卫视",cctv-10
 http://183.58.12.203:30001/PLTV/88888905/224/3221227626/2.m3u8
-#EXTINF:0 tvg-logo="CCTV-11a.png",group-title="超清央视卫视",CCTV11戏曲
+#EXTINF:0 tvg-logo="CCTV-11a.png",group-title="超清央视卫视",cctv-11
 http://117.169.120.217:8080/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="超清央视卫视",CCTV12
+#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="超清央视卫视",cctv-12
 http://183.251.61.207/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="超清央视卫视",CCTV12
+#EXTINF:0 tvg-logo="CCTV-12a.png",group-title="超清央视卫视",cctv-12
 http://183.252.176.40/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-13a.png",group-title="超清央视卫视",CCTV13
+#EXTINF:0 tvg-logo="CCTV-13a.png",group-title="超清央视卫视",cctv-13
 http://183.252.176.44/PLTV/88888888/224/3221225911/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="超清央视卫视",CCTV14
+#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="超清央视卫视",cctv-14
 http://183.252.176.40/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="超清央视卫视",CCTV14
+#EXTINF:0 tvg-logo="CCTV-14a.png",group-title="超清央视卫视",cctv-14
 http://183.58.12.83:30001/PLTV/88888905/224/3221227637/2.m3u8
-#EXTINF:0 tvg-logo="CCTV-15a.png",group-title="超清央视卫视",CCTV15音乐
+#EXTINF:0 tvg-logo="CCTV-15a.png",group-title="超清央视卫视",cctv-15
 http://117.169.120.217:8080/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清央视卫视",湖南卫视
 http://183.252.176.40/PLTV/88888888/224/3221225935/index.m3u8
