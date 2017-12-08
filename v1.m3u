@@ -15,9 +15,9 @@ http://61.166.153.32:1180/play/playback/90000001000000050000000000000199/live100
 http://183.252.176.40/PLTV/88888888/224/3221225925/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-5.png",group-title="超清央视卫视",cctv-5
 http://183.252.176.40/PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="超清央视卫视",cctv-5+
+#EXTINF:0 tvg-logo="CCTV-5P.png",group-title="超清央视卫视",cctv-5+
 http://183.252.176.40/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5b.png",group-title="超清央视卫视",cctv-5+
+#EXTINF:0 tvg-logo="CCTV-5P.png",group-title="超清央视卫视",cctv-5+
 http://183.252.176.40/PLTV/88888888/224/3221225821/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-6.png",group-title="超清央视卫视",cctv-6
 http://183.252.176.40/PLTV/88888888/224/3221225926/index.m3u8
@@ -291,8 +291,6 @@ http://183.207.248.71/PLTV/3/224/3221226923/index.m3u8
 http://111.13.42.8/PLTV/88888888/224/3221225684/index.m3u8
 #EXTINF:0 tvg-logo="fenghuangxianggang.png",group-title="港台境外",凤凰卫视香港台720P
 http://111.13.42.8/PLTV/88888888/224/3221225954/index.m3u8
-#EXTINF:0 tvg-logo="hkweishi.png",group-title="港台境外",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 tvg-logo="tvbfeicui.png",group-title="港台境外",TVB翡翠
 http://acm.gg/jade.m3u8
 #EXTINF:0 tvg-logo="tvbhudongxinwena.png",group-title="港台境外",TVB无线新闻
@@ -315,6 +313,8 @@ http://acm.gg/tvbanywhere.m3u8?id=tvbjj
 http://acm.gg/tvbanywhere.m3u8?id=tvbsh
 #EXTINF:0 tvg-logo="tvbsxinwen.png",group-title="港台境外",TVBS新闻
 http://edge01p.friday.tw/live/fet005/chunklist.m3u
+#EXTINF:0 tvg-logo="hkweishi.png",group-title="港台境外",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 tvg-logo="MGTV.png",group-title="MGTV点播",香港电影
 http://rotation.vod.zlive.cc/channel/1086.m3u8
 #EXTINF:0 tvg-logo="MGTV.png",group-title="MGTV点播",广场舞
