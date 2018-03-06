@@ -1,57 +1,63 @@
 #EXTM3U url-logos="https://iloveiptv.github.io/tvlogos/"
-#EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",cctv-1
+#EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",CCTV-1_8M
 http://183.252.176.40/PLTV/88888888/224/3221225922/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",cctv-1
+#EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",CCTV-1_4M
 http://183.252.176.40/PLTV/88888888/224/3221225829/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-2.png",group-title="超清央视卫视",cctv-2
+#EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",CCTV-1_4M
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225977/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",CCTV-1_2M
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225556/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-2.png",group-title="超清央视卫视",CCTV-2_8M
 http://183.252.176.40/PLTV/88888888/224/3221225923/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-3.png",group-title="超清央视卫视",cctv-3
-http://183.252.176.40/PLTV/88888888/224/3221225924/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-3.png",group-title="超清央视卫视",cctv-3
-http://183.252.176.40/PLTV/88888888/224/3221225801/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-4.png",group-title="超清央视卫视",cctv-4
-http://61.166.153.32:1180/play/playback/90000001000000050000000000000199/live100001.m3u8
-#EXTINF:0 tvg-logo="CCTV-5.png",group-title="超清央视卫视",cctv-5
+#EXTINF:0 tvg-logo="CCTV-3.png",group-title="超清央视卫视",CCTV-3_2M
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225520/index.m3u8
+##EXTINF:0 tvg-logo="CCTV-3.png",group-title="超清央视卫视",CCTV-3
+#http://183.252.176.40/PLTV/88888888/224/3221225924/index.m3u8
+##EXTINF:0 tvg-logo="CCTV-3.png",group-title="超清央视卫视",CCTV-3
+#http://183.252.176.40/PLTV/88888888/224/3221225801/index.m3u8
+#EXTINF:0 tvg-logo="CCTV-4.png",group-title="超清央视卫视",CCTV-4
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5A94F55CU30871010K7755D8D0I78610774PBM3216187WDD25AB059C1&programid=4200000315&playtoken=ABCDEFGH&ts=50&verifycode=2002114770
+#EXTINF:0 tvg-logo="CCTV-5.png",group-title="超清央视卫视",CCTV-5
 http://183.252.176.40/PLTV/88888888/224/3221225925/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5.png",group-title="超清央视卫视",cctv-5
+#EXTINF:0 tvg-logo="CCTV-5.png",group-title="超清央视卫视",CCTV-5
 http://183.252.176.40/PLTV/88888888/224/3221225803/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5P.png",group-title="超清央视卫视",cctv-5+
+#EXTINF:0 tvg-logo="CCTV-5P.png",group-title="超清央视卫视",CCTV-5+
 http://183.252.176.40/PLTV/88888888/224/3221225939/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-5P.png",group-title="超清央视卫视",cctv-5+
+#EXTINF:0 tvg-logo="CCTV-5P.png",group-title="超清央视卫视",CCTV-5+
 http://183.252.176.40/PLTV/88888888/224/3221225821/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-6.png",group-title="超清央视卫视",cctv-6
+#EXTINF:0 tvg-logo="CCTV-6.png",group-title="超清央视卫视",CCTV-6
 http://183.252.176.40/PLTV/88888888/224/3221225926/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-6.png",group-title="超清央视卫视",cctv-6
+#EXTINF:0 tvg-logo="CCTV-6.png",group-title="超清央视卫视",CCTV-6
 http://183.252.176.40/PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-7.png",group-title="超清央视卫视",cctv-7
+#EXTINF:0 tvg-logo="CCTV-7.png",group-title="超清央视卫视",CCTV-7
 http://183.252.176.40/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-7.png",group-title="超清央视卫视",cctv-7
-http://api_p.tll888.com/v/iptv.php?id=cctv7hd
-#EXTINF:0 tvg-logo="CCTV-8.png",group-title="超清央视卫视",cctv-8
+#EXTINF:0 tvg-logo="CCTV-7.png",group-title="超清央视卫视",CCTV-7
+http://api_p.tll888.com/v/iptv.php?id=CCTV7hd
+#EXTINF:0 tvg-logo="CCTV-8.png",group-title="超清央视卫视",CCTV-8
 http://183.252.176.40/PLTV/88888888/224/3221225928/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-8.png",group-title="超清央视卫视",cctv-8
+#EXTINF:0 tvg-logo="CCTV-8.png",group-title="超清央视卫视",CCTV-8
 http://183.252.176.40/PLTV/88888888/224/3221225806/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-9.png",group-title="超清央视卫视",cctv-9
+#EXTINF:0 tvg-logo="CCTV-9.png",group-title="超清央视卫视",CCTV-9
 http://183.252.176.40/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-9.png",group-title="超清央视卫视",cctv-9
-http://api_p.tll888.com/v/iptv.php?id=cctv9hd
-#EXTINF:0 tvg-logo="CCTV-10.png",group-title="超清央视卫视",cctv-10
+#EXTINF:0 tvg-logo="CCTV-9.png",group-title="超清央视卫视",CCTV-9
+http://api_p.tll888.com/v/iptv.php?id=CCTV9hd
+#EXTINF:0 tvg-logo="CCTV-10.png",group-title="超清央视卫视",CCTV-10
 http://183.252.176.40/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-10.png",group-title="超清央视卫视",cctv-10
+#EXTINF:0 tvg-logo="CCTV-10.png",group-title="超清央视卫视",CCTV-10
 http://183.58.12.203:30001/PLTV/88888905/224/3221227626/2.m3u8
-#EXTINF:0 tvg-logo="CCTV-11.png",group-title="超清央视卫视",cctv-11
+#EXTINF:0 tvg-logo="CCTV-11.png",group-title="超清央视卫视",CCTV-11
 http://117.169.120.217:8080/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-12.png",group-title="超清央视卫视",cctv-12
+#EXTINF:0 tvg-logo="CCTV-12.png",group-title="超清央视卫视",CCTV-12
 http://183.251.61.207/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-12.png",group-title="超清央视卫视",cctv-12
+#EXTINF:0 tvg-logo="CCTV-12.png",group-title="超清央视卫视",CCTV-12
 http://183.252.176.40/PLTV/88888888/224/3221225932/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-13.png",group-title="超清央视卫视",cctv-13
+#EXTINF:0 tvg-logo="CCTV-13.png",group-title="超清央视卫视",CCTV-13
 http://183.252.176.44/PLTV/88888888/224/3221225911/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-14.png",group-title="超清央视卫视",cctv-14
+#EXTINF:0 tvg-logo="CCTV-14.png",group-title="超清央视卫视",CCTV-14
 http://183.252.176.40/PLTV/88888888/224/3221225933/index.m3u8
-#EXTINF:0 tvg-logo="CCTV-14.png",group-title="超清央视卫视",cctv-14
+#EXTINF:0 tvg-logo="CCTV-14.png",group-title="超清央视卫视",CCTV-14
 http://183.58.12.83:30001/PLTV/88888905/224/3221227637/2.m3u8
-#EXTINF:0 tvg-logo="CCTV-15.png",group-title="超清央视卫视",cctv-15
+#EXTINF:0 tvg-logo="CCTV-15.png",group-title="超清央视卫视",CCTV-15
 http://117.169.120.217:8080/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:0 tvg-logo="hunanweishi.png",group-title="超清央视卫视",湖南卫视
 http://183.252.176.40/PLTV/88888888/224/3221225935/index.m3u8
@@ -349,3 +355,27 @@ http://rotation.vod.zlive.cc/channel/1652.m3u8
 http://rotation.vod.zlive.cc/channel/1653.m3u8
 #EXTINF:0 tvg-logo="MGTV.png",group-title="MGTV点播",MV
 http://rotation.vod.zlive.cc/channel/1654.m3u8
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",极盗车神
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1936E46551E121FCA9D7E86599FF586B&file=/internettv/c1/2017/10/23/1936E46551E121FCA9D7E86599FF586B.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",神偷奶爸3
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=19E651CD648161CF5698EEAB23522032&file=/internettv/c1/2017/10/07/19E651CD648161CF5698EEAB23522032.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",三生三世十里桃花
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=4460C3F6114AD4E4321C16D609F0846B&file=/internettv/c1/2017/09/01/4460C3F6114AD4E4321C16D609F0846B.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",建军大业
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=0E81974AC5EB82EB96C5D99E69EFEB1F&file=/internettv/c1/2017/10/01/0E81974AC5EB82EB96C5D99E69EFEB1F.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",明月几时有
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=6A739470D33AB142B240EE723F9AAE69&file=/internettv/c1/2017/09/15/6A739470D33AB142B240EE723F9AAE69.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",破·局
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=42DCBF815D8A35165A248E7AE81567B4&file=/internettv/c1/2017/09/29/42DCBF815D8A35165A248E7AE81567B4.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",记忆大师
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=FB329558FB12FD9A72ECC93466798A9F&file=/internettv/c1/2017/07/24/FB329558FB12FD9A72ECC93466798A9F.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",速度与激情8
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=21110E2C0D7C2BFA5CEBD6A69E8C73BA&file=/internettv/c1/2017/08/08/21110E2C0D7C2BFA5CEBD6A69E8C73BA.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",加勒比海盗5-死无对证
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=38A47B078578BF4F03931EDF61D22E26&file=/internettv/c1/2017/09/06/38A47B078578BF4F03931EDF61D22E26.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",绝世高手
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=3357712FA1189A2CB949E8265C1CF8B4&file=/internettv/c1/2017/08/08/3357712FA1189A2CB949E8265C1CF8B4.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",超凡蜘蛛侠2
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=F7F30ACAC2D080CE4744BE09171548E5&file=/internettv/c1/2017/07/13/F7F30ACAC2D080CE4744BE09171548E5.ts
+#EXTINF:0 tvg-logo="dianbo.png",group-title="电影点播",疯狂动物城
+http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=DBC04661DF806EDFFB686040EEBA7EDC&file=/internettv/c1/2017/07/14/DBC04661DF806EDFFB686040EEBA7EDC.ts
