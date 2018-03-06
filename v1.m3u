@@ -1,4 +1,6 @@
 #EXTM3U url-logos="https://iloveiptv.github.io/tvlogos/"
+#EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",东森新闻HD
+http://211.72.174.95:8138/0.ts
 #EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",CCTV-1_8M
 http://183.252.176.40/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",CCTV-1_4M
