@@ -1,6 +1,58 @@
 #EXTM3U url-logos="https://iloveiptv.github.io/tvlogos/"
-#EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",东森新闻HD
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",东森新闻HD
 http://211.72.174.95:8138/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",FOX MOVIES
+http://211.72.174.95:8103/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",国家地理
+http://211.72.174.95:8104/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",卫视中文台
+http://211.72.174.95:8106/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",TVBS欢乐台
+http://211.72.174.95:8108/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",TVBS新闻台
+http://211.72.174.95:8109/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",TVBS
+http://211.72.174.95:8110/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",三立新闻HD
+http://211.72.174.95:8111/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",台视HD
+http://211.72.174.95:8112/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",中视HD
+http://211.72.174.95:8113/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",华视HD
+http://211.72.174.95:8114/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",民视
+http://211.72.174.95:8115/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",公视HD
+http://211.72.174.95:8116/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",民视新闻
+http://211.72.174.95:8117/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",东森幼幼HD
+http://211.72.174.95:8123/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",NHKHD
+http://211.72.174.95:8126/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",东森亚洲新闻
+http://211.72.174.95:8130/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",探索频道HD
+http://211.72.174.95:8134/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",动物星球HD
+http://211.72.174.95:8135/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",旅游生活HD
+http://211.72.174.95:8136/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",年代新闻
+http://211.72.174.95:8137/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",迪斯尼HD
+http://211.72.174.95:8140/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",八大第1台HD
+http://211.72.174.95:8141/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",中天新闻HD
+http://211.72.174.95:8142/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",HBO
+http://211.72.174.95:8143/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",CINEMAX
+http://211.72.174.95:8144/0.ts
+#EXTINF:0 tvg-logo="MGTV.png",group-title="港台境外",DW
+http://211.72.174.95:8128/0.ts
 #EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",CCTV-1_8M
 http://183.252.176.40/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="CCTV-1.png",group-title="超清央视卫视",CCTV-1_4M
